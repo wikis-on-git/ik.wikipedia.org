@@ -14,7 +14,6 @@
 |style="font-size:95%;padding:10px 0;margin:0px;text-align:right;white-space:nowrap;color:#000"|
 [[Wikipedia:Browse|Categories]] '''·''' [[Wikipedia:Featured content|Featured content]] '''·''' [[Wikipedia:Quick index|A–Z index]]
 |}
-{{Main Page banner}}<!-- End of header section / beginning of left-column -->
 {|style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
@@ -57,3 +56,4 @@ For more information, visit [http://www.wikipedia.org the main website].
 
 ==Links==
 [http://www.alaskool.org/Language/dictionaries/inupiaq/dictionary.htm Inupiaq dictionary]
+{{Main Page banner}}<!-- End of header section / beginning of left-column -->
