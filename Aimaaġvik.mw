@@ -3,3 +3,12 @@
 == Wellcam bi Wikipedia==
 <div class="inhalt">
 [[Wikipedia]] is un Projekto do buld une free Enzeclopedie in ov als 200 Languas.
+
+<!-- I da News -->
+<div id="hauptseite-nachrichten" class="hauptseite-rechts">
+== I da news==
+<div class="inhalt">
+{{Hauptseite Aktuelles}}
+<div class="mehr">[[n:Hauptseite|Hauptseite]]</div>
+</div>
+</div>
