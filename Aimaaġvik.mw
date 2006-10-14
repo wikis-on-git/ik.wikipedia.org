@@ -52,3 +52,11 @@ Encore momentanément dans la construction
 [[tr:]]
 [[zh:]]
 __NOTOC__ __NOEDITSECTION__
+<!-- Artikel des Tages -->
+<div id="hauptseite-artikel" class="hauptseite-links">
+== Artikel des Tages ==
+<div class="inhalt">
+{{Hauptseite Artikel des Tages {{LOCALDAYNAME}}}}
+<div class="mehr">[[Vorlage Diskussion:Hauptseite Artikel des Tages/Protokoll {{LOCALYEAR}}|Frühere Artikel des Tages]]&nbsp;&middot; [[Wikipedia:Exzellente Artikel|Weitere exzellente Artikel]]</div>
+</div>
+</div>
