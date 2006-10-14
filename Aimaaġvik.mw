@@ -1,4 +1,3 @@
-
 <div id="mainpage"></div>
 <!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
 |style="width:56%;color:#000"|
@@ -8,18 +7,18 @@
 <div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">Welcome to [[Wikipedia]],</div>
 <div style="top:+0.2em;font-size: 95%">the free encyclopedia that [[Wikipedia:Introduction|anyone&nbsp;can&nbsp;edit]].</div>
 <div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] articles in English</div>
-|}<!-- Portals Follow -->
+|}<!-- Portalos -->
 |style="width:11%;font-size:95%;color:#000"|
 *[[Portal:Arts|Arts]]
 *[[Portal:Biography|Biography]]
-*[[Portal:Geography|Geography]]
+*[[Portal:Georika|Georika]]
 |style="width:11%;font-size:95%"|
-*[[Portal:History|History]]
-*[[Portal:Mathematics|Mathematics]]
+*[[Portal:Historika|Historika]]
+*[[Portal:Mathematika|Mathematika]]
 *[[Portal:Science|Science]]
 |style="width:11%;font-size:95%"|
 *[[Portal:Society|Society]]
-*[[Portal:Technology|Technology]]
+*[[Portal:Technologika|Technologika]]
 *'''[[Portal:List|All&nbsp;portals]]'''
 |}<!-- End Portals -->
 {|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
@@ -59,14 +58,38 @@
 |-
 |style="color:#000"|{{Wikipedia:POTD row/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}} <!-- standardize format with other Pic of the day features -->
 |-
-|}
-|}<!-- Start of reference section -->
-==Other areas of Wikipedia==
-{{WikipediaOther}}<!--Template:WikipediaOther-->
-==Wikipedia's sister projects==
-{{WikipediaSister}}<!--Template:WikipediaSister-->
-==Wikipedia languages==
-{{Wikipedialang}}<!--Template:Wikipedialang-->
-</div>
-</div>__NOTOC__ __NOEDITSECTION__
-{{newpagelinksmain}}<!--Template:Newpagelinksmain-->
+
+
+
+
+<!-- Languagos -->
+[[als:]]
+[[ar:]]
+[[bar:]]
+[[cs:]]
+[[da:]]
+[[de:]]
+[[en:]]
+[[es:]]
+[[fr:]]
+[[fur:]]
+[[fy:]]
+[[hsb:]]
+[[hu:]]
+[[it:]]
+[[ja:]]
+[[la:]]
+[[lb:]]
+[[ksh:]]
+[[nds:]]
+[[nl:]]
+[[pl:]]
+[[pt:]]
+[[rm:]]
+[[ru:]]
+[[sk:]]
+[[sl:]]
+[[sv:]]
+[[tr:]]
+[[zh:]]
+__NOTOC__ __NOEDITSECTION__
