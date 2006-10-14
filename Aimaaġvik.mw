@@ -35,9 +35,9 @@
 {|width="100%" cellpadding="2" cellspacing="5" style="vertical-align:top;background-color:#f5fffa"
 ! <h2 style="margin:0;background-color:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Today's featured article</h2>
 |-
-|style="color:#000"|{{Wikipedia:Today's featured article/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
+|style="color:#000"|{{Wikipedia:Diemus betus articolus/{{CURRENTMONTHNAME}} {{CURRENTDAY}}, {{CURRENTYEAR}}}}
 |-
-! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Did you know...</h2>
+! <h2 style="margin:0;background:#cef2e0;font-size:120%;font-weight:bold;border:1px solid #a3bfb1;text-align:left;color:#000;padding:0.2em 0.4em;">Uo newo...</h2>
 |-
 |style="color:#000"|{{Uo newo?}}
 |-
