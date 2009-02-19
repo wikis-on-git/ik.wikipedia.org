@@ -1,12 +1,12 @@
-<!-- Beginning of header section -->{|style="width:100%;margin-top:+.7em;background-color:#fcfcfc;border:1px solid #ccc"
-|style="width:56%;color:#000"|
-{|style="width:280px;border:solid 0px;background:none"
-|-
-|style="width:280px;text-align:center;white-space:nowrap;color:#000" |
-<div style="font-size:162%;border:none;margin: 0;padding:.1em;color:#000">[[Wikipedia:Welcome, newcomers|Nayaaŋaġaa]] muk [[Wikipedia|Uiqipitia]],</div>
-<div style="top:+0.2em;font-size: 95%;text-align=center;"> makpiġaat atanġiqsauruq taavrumiŋa [[Wikipedia:Introduction|suliqaalla&nbsp;ŋŋuq]].</div>
-<div id="articlecount" style="width:100%;text-align:center;font-size:85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] makpiġaaq Iñupiaq</div>
-|}<!-- Portals Follow -->
+<!-- Beginning of header section -->
+{|style="width:100%;margin-top:+.7em;"
+
+<div style="background-color:#fcfcfc; border: 1px solid #ccc; color:#000; margin-top: 15px; padding: 8px;"><center>
+<div style="font-size: 175%;">[[Wikipedia:Welcome, newcomers|Nayaaŋaġaa]] muk [[Wikipedia|Uiqipitia]],</div>
+<div style="font-size: 95%"> makpiġaat atanġiqsauruq taavrumiŋa [[Wikipedia:Introduction|suliqaalla&nbsp;ŋŋuq]].</div>
+<div style="font-size: 85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] makpiġaaq Iñupiaq</div>
+</center></div>
+<!-- Portals Follow -->
 |style="width:11%;font-size:95%;color:#000"|
 |}<!-- End Portals -->
 {|style="width:100%;background:none;margin:-.8em 0 -.7em 0"
