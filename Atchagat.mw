@@ -1,23 +1,159 @@
-== Inupiaq Uqautchit Algak ==
-a   ch  g   ġ   h   i   k   l   ḷ   ł   ł ̣  m   n   ŋ   ñ   p   q   r   s   sr   t   u   v   y
+Aglak tiguaqtuq atausiq aglaktuq. Ittuq ieugiaktuq aglak. [[Inupiaq uqautchit]] atuqtuq 24 aglak. 
 
-{| cellpadding="4" cellspacing="0"  class="wikitable"
-|- align="center"
-! A a || Ch ch || G g || Ġ ġ || H h || I i || K k || L l || Ḷ ḷ || Ł ł || Ł̣ ł̣ || M m 
-|- align="center"
-! a || cha || ga || ġa || ha || i || ka || la || ḷa || ła || ł̣a || ma 
-|- align="center"
-| {{IPA|/a/}} || {{IPA|/tʃ/}} || {{IPA|/ɣ/}} || {{IPA|/ʁ/}} || {{IPA|/h/}} || {{IPA|/i/}} || {{IPA|/k/}} || {{IPA|/l/}} || {{IPA|//}} || {{IPA|/ʎ/}} || {{IPA|//}} || {{IPA|/m/}}
-|- align="center"
-! N n || Ñ ñ || Ŋ|Ŋ ŋ || P p || Q q || R r || S s || Sr sr || T t || U u || V v || Y y
-|- align="center"
-! na || ña || ŋa || pa || qa || ra || sa || sra || ta || u || va || ya  
-|- align="center"
-| {{IPA|/n/}} || {{IPA|/ɲ/}} || {{IPA|/ŋ/}} || {{IPA|/p/}} || {{IPA|/q/}} || {{IPA|/ʐ/}} || {{IPA|/ɕ/}} || {{IPA|/ʂ/}} || {{IPA|/t/}} || {{IPA|/u/}} || {{IPA|/v/}} || {{IPA|/j/}} 
+== Inupiaq Uqautchit Algak ==
+
+{| border="0" cellpadding="5" cellspacing="5" 
+|- bgcolor="#aaaaaa"
+|Aglakpak
+|Aglauraq
+|Atiq
+|IPA
+
+|- bgcolor="#dddddd"
+|A
+|a
+| a
+| {{IPA|/a/}}
+
+|- bgcolor="#dddddd"
+|Ch
+|ch
+| cha
+| {{IPA|/tʃ/}} 
+
+|- bgcolor="#dddddd"
+|G
+|g
+| ga
+| {{IPA|/ɣ/}}
+
+|- bgcolor="#dddddd"
+|Ġ 
+|ġ
+| ġa 
+| {{IPA|/ʁ/}} 
+
+|- bgcolor="#dddddd"
+|H
+|h
+| ha
+| {{IPA|/h/}}
+
+|- bgcolor="#dddddd"
+|I
+|i
+| i
+| {{IPA|/i/}}
+
+|- bgcolor="#dddddd"
+|K
+|k
+| ka
+| {{IPA|/k/}} 
+
+|- bgcolor="#dddddd"
+|L
+|l
+| la
+| {{IPA|/l/}} 
+
+|- bgcolor="#dddddd"
+|Ḷ
+|ḷ
+| ḷa 
+| {{IPA|//}} 
+
+|- bgcolor="#dddddd"
+|Ł 
+|ł
+| ła 
+| {{IPA|/ʎ/}} 
+
+|- bgcolor="#dddddd"
+|Ł̣ 
+|ł̣ 
+| ł̣a 
+| {{IPA|//}} 
+
+|- bgcolor="#dddddd"
+|M
+|m
+| ma
+| {{IPA|/m/}}
+
+|- bgcolor="#dddddd"
+|N
+|n
+| na
+| {{IPA|/n/}} 
+
+|- bgcolor="#dddddd"
+|Ñ
+|ñ 
+| ña
+| {{IPA|/ɲ/}}
+
+|- bgcolor="#dddddd"
+|Ŋ
+|ŋ
+| ŋa 
+| {{IPA|/ŋ/}} 
+
+|- bgcolor="#dddddd"
+|P
+|p
+| pa 
+| {{IPA|/p/}} 
+
+|- bgcolor="#dddddd"
+|Q
+|q
+| qa 
+| {{IPA|/q/}} 
+
+|- bgcolor="#dddddd"
+|R
+|r
+| ra 
+| {{IPA|/ʐ/}} 
+
+|- bgcolor="#dddddd"
+|S
+|s
+| sa 
+| {{IPA|/ɕ/}} 
+
+|- bgcolor="#dddddd"
+|Sr
+|sr
+| sra 
+| {{IPA|/ʂ/}} 
+
+|- bgcolor="#dddddd"
+|T
+|t
+| ta
+| {{IPA|/t/}} 
+
+|- bgcolor="#dddddd"
+|U
+|u
+| u
+| {{IPA|/u/}} 
+
+|- bgcolor="#dddddd"
+|V
+|v
+| va
+| {{IPA|/v/}} 
+
+|- bgcolor="#dddddd"
+|Y
+|y
+| ya
+| {{IPA|/j/}} 
 |}
 
-
-Aglak tiguaqtuq atausiq aglaktuq. Ittuq ieugiaktuq aglak. [[Inupiaq uqautchit]] atuqtuq 24 aglak. 
 
 [[Category:Iñupiatun]]
 
