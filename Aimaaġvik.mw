@@ -1,5 +1,9 @@
 <!-- Beginning of header section -->
-{|style="width:100%;margin-top:+.7em;"
+<div style="background-color:#fcfcfc; border: 1px solid #ccc; color:#000; margin-top: 15px; padding: 8px;"><center>
+<div style="font-size: 175%;">[[Wikipedia:Welcome, newcomers|Paġlagivsi]] [[Wikipedia|Uiqipitiamun]],</div>
+<div style="font-size: 95%"> makpiġaat atanġiqsauruq taavrumiŋa [[Wikipedia:Introduction|suliqaalla&nbsp;ŋŋuq]].</div>
+<div style="font-size: 85%;">[[Special:Statistics|{{NUMBEROFARTICLES}}]] makpiġaat Iñupiatun</div>
+</center>{|style="width:100%;margin-top:+.7em;"
 
 <div style="background-color:#fcfcfc; border: 1px solid #ccc; color:#000; margin-top: 15px; padding: 8px;"><center>
 <div style="font-size: 175%;">[[Wikipedia:Welcome, newcomers|Nayaaŋaġaa]] muk [[Wikipedia|Uiqipitia]],</div>
@@ -15,9 +19,9 @@
 [[Wikipedia:Browse|Itnasriq]] '''·''' [[Wikipedia:Featured content|kamanajhaaqtuq makpiġaaq]] '''·''' [[Wikipedia:Quick index|A–Y qanniġaa]]
 |}
 
-==Nayaafaġaa muk Uiqipitia!==
+==Paġlavisi Uiqipitiamun!==
 
-Agga pafmapak '''{{NUMBEROFARTICLES}}''' [[Special:Allpages|makpiġaaq niq]].
+Agga pagmapak '''{{NUMBEROFARTICLES}}''' [[Special:Allpages|makpiġaaq niq]].
 
 {|style="border-spacing:8px;margin:0px -8px"
 |class="MainPageBG" style="width:55%;border:1px solid #cef2e0;background-color:#f5fffa;vertical-align:top;color:#000"|
