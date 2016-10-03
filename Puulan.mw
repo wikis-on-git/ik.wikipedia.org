@@ -1,0 +1,73 @@
+{| border=1 align=right cellpadding=4 cellspacing=0 width=300 style="margin: 0 0 1em 1em; background: #f9f9f9; border: 1px #aaaaaa solid; border-collapse: collapse; font-size: 95%;"
+|+<big><big>'''{{PAGENAME}}'''</big></big><br />''Polska''
+|-
+| style="background:#efefef;" align="center" colspan=2 |
+{| border="0" cellpadding="2" cellspacing="0"
+|-
+| align="center" width="140px" | [[File:Herb Polski.svg|100px]]
+| align="center" width="140px" | [[File:Flag of Poland.svg|right|100px]]
+|}
+|-
+| align=center colspan=2 | [[File:Poland in European Union.svg|250px]]
+|}
+'''Poland''' (([[Kukuusitaq uqautchit|pl.]]: ''Polska'') tiguaqtuq nunauruat. Iñiqsiruq 966 (1918), 38,437,000 iñuq (2016).
+
+Afalati: [[Andrzej Duda]]. Prime Minister: [[Beata Szydło]]
+== Iñuq ==
+<timeline>
+ImageSize = width:620 height:200
+PlotArea = left:50 right:20 top:25 bottom:30
+TimeAxis = orientation:vertical
+AlignBars = late
+Colors =
+  id:linegrey2 value:gray(0.9)
+  id:linegrey value:gray(0.7)
+  id:cobar value:rgb(0.2,0.7,0.8)
+  id:cobar2 value:rgb(0.6,0.9,0.6)
+DateFormat = yyyy
+Period = from:0 till:40000000
+ScaleMajor = unit:year increment:40000000 start:0 gridcolor:linegrey
+ScaleMinor = unit:year increment:10000000 start:0 gridcolor:linegrey2
+PlotData =
+  color:cobar width:20 align:center
+  bar:1370 from:0 till: 1900000
+  bar:1582 from:0 till: 7500000
+  bar:1634 from:0 till: 11000000
+  bar:1800 from:0 till: 9000000
+  bar:1921 from:0 till: 27177000
+  bar:1938 from:0 till: 34849000 
+  bar:1946 from:0 till: 23930000
+  bar:1960 from:0 till: 29776000
+  bar:1978 from:0 till: 35061000
+  bar:1995 from:0 till: 38610000
+  bar:2009 from:0 till: 38167329
+ 
+
+PlotData=
+  textcolor:black fontsize:S
+  bar:1370 at: 1900000 text: 1,900,000 shift:(0)
+  bar:1582 at: 7500000 text: 7,500,000 shift:(0)
+  bar:1634 at: 11000000 text: 11,000,000 shift:(0)
+  bar:1800 at: 9000000 text: 9,000,000 shift:(0)
+  bar:1921 at: 27177000 text: 27,2 shift:(0)
+  bar:1938 at: 34849000 text: 34,8 shift:(0)
+  bar:1946 at: 23930000 text: 23,9 shift:(0)
+  bar:1960 at: 29776000 text: 29,8 shift:(0)
+  bar:1978 at: 35061000 text: 35,1 shift:(0)
+  bar:1995 at:  38610000 text: 38,6 shift:(0)
+  bar:2009 at: 38167329 text: 38,167,329 shift:(0)
+  </timeline>
+<br clear=all />
+
+== Iñuguqtuq ==
+* [[Warszawa]] (en. Warsaw) 1,739,586 iñuq 
+* [[Kraków]] 762,508
+* [[Łódź]] 703,186
+* [[Wrocław]] 634,404
+* [[Poznań]] 544,612
+* [[Gdańsk]] 461,798
+
+[[Category:Nunaurat]]
+[[En:Poland]]
+{{commons|Poland}}
+[[Category:Poland]]
