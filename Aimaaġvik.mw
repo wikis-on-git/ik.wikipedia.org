@@ -1,10 +1,10 @@
 
 <!-- Beginning of header section -->
-<div style="background-color:#fcfcfc; border: 1px solid #ccc; color:#000; margin-top: 15px; padding: 8px;"><center>
+<div style="background-color:#fcfcfc; border: 1px solid #ccc; color:#000; margin-top: 15px; padding: 8px;"><div class="center">
 <div style="font-size: 175%;">[[Wikipedia:Welcome, newcomers|'''Paġlagivsi''']]''' [[Wikipedia|Uiqipitiamun]]!'''</div>Quyanaqpak qaigaviñ! Marra manna ilisallatutin qanuq iñuit suli allat. Ikayusiñŋa! <div style="font-size: 85%;">
 [[Special:Statistics|{{NUMBEROFARTICLES}}]] makpiġaat Iñupiatun
 </div>
-[[File:Inupiat Family from Noatak, Alaska, 1929, Edward S. Curtis (restored).jpg|500px|thumb|Inupiat Nuataagniñ|centre]]</center>
+[[File:Inupiat Family from Noatak, Alaska, 1929, Edward S. Curtis (restored).jpg|500px|thumb|Inupiat Nuataagniñ|centre]]</div>
 
 <!-- Portals Follow -->
 <!-- End Portals -->
@@ -38,7 +38,7 @@ Pagmapak una uvva Uiqipitia '''{{NUMBEROFARTICLES}}''' [[Special:Allpages|makpi�
 
 |}<!-- Start of reference section -->
 ==Suli Uqautchit Uiqipitiat==
-<center>[[:iu:|Inuktitut/ᐃᓄᒃᑎᑐᑦ]]&nbsp;· [[:kl:|Kalaallisut]]&nbsp;· [[:incubator:Wp/esu|Yup'ik]]</center>
+<div class="center">[[:iu:|Inuktitut/ᐃᓄᒃᑎᑐᑦ]]&nbsp;· [[:kl:|Kalaallisut]]&nbsp;· [[:incubator:Wp/esu|Yup'ik]]</div>
 {{Wikipedialang}}<!--Template:Wikipedialang-->
 </div>
 
