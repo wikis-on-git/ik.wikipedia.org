@@ -1,5 +1,48 @@
 [[File:Kaktovik digit table.png|thumb|Kisirrutit Qaaktuġvik]]
 '''Kisirrutit Qaaktuġvik'''
 
+==Unicode==
+{| class="wikitable nounderlines" style="border-collapse:collapse;background:#FFFFFF;font-size:large;text-align:center"
+| colspan="17" style="background:#F8F8F8;font-size:small" | Kisirrutit Qaaktuġvik
+|- style="background:#F8F8F8;font-size:small"
+| style="width:45pt" | &nbsp; || style="width:20pt"  | 0 || style="width:20pt"  | 1 || style="width:20pt"  | 2 || style="width:20pt"  | 3 || style="width:20pt"  | 4 || style="width:20pt"  | 5 || style="width:20pt"  | 6 || style="width:20pt"  | 7 || style="width:20pt"  | 8 || style="width:20pt"  | 9 || style="width:20pt"  | A || style="width:20pt"  | B || style="width:20pt"  | C || style="width:20pt"  | D || style="width:20pt"  | E || style="width:20pt"  | F
+|-
+| style="background:#F8F8F8;font-size:small" lang="mul" | U+1D2Cx
+| title="U+1D2C0: KAKTOVIK NUMERAL ZERO" | [[File:Kaktovik digit 0.svg|x32px|𝋀]]
+| title="U+1D2C1: KAKTOVIK NUMERAL ONE" | [[File:Kaktovik digit 1.svg|x32px|𝋁]]
+| title="U+1D2C2: KAKTOVIK NUMERAL TWO" | [[File:Kaktovik digit 2.svg|x32px|𝋂]]
+| title="U+1D2C3: KAKTOVIK NUMERAL THREE" | [[File:Kaktovik digit 3.svg|x32px|𝋃]]
+| title="U+1D2C4: KAKTOVIK NUMERAL FOUR" | [[File:Kaktovik digit 4.svg|x32px|𝋄]]
+| title="U+1D2C5: KAKTOVIK NUMERAL FIVE" | [[File:Kaktovik digit 5.svg|x32px|𝋅]]
+| title="U+1D2C6: KAKTOVIK NUMERAL SIX" | [[File:Kaktovik digit 6.svg|x32px|𝋆]]
+| title="U+1D2C7: KAKTOVIK NUMERAL SEVEN" | [[File:Kaktovik digit 7.svg|x32px|𝋇]]
+| title="U+1D2C8: KAKTOVIK NUMERAL EIGHT" | [[File:Kaktovik digit 8.svg|x32px|𝋈]]
+| title="U+1D2C9: KAKTOVIK NUMERAL NINE" | [[File:Kaktovik digit 9.svg|x32px|𝋉]]
+| title="U+1D2CA: KAKTOVIK NUMERAL TEN" | [[File:Kaktovik digit 10.svg|x32px|𝋊]]
+| title="U+1D2CB: KAKTOVIK NUMERAL ELEVEN" | [[File:Kaktovik digit 11.svg|x32px|𝋋]]
+| title="U+1D2CC: KAKTOVIK NUMERAL TWELVE" | [[File:Kaktovik digit 12.svg|x32px|𝋌]]
+| title="U+1D2CD: KAKTOVIK NUMERAL THIRTEEN" | [[File:Kaktovik digit 13.svg|x32px|𝋍]]
+| title="U+1D2CE: KAKTOVIK NUMERAL FOURTEEN" | [[File:Kaktovik digit 14.svg|x32px|𝋎]]
+| title="U+1D2CF: KAKTOVIK NUMERAL FIFTEEN" | [[File:Kaktovik digit 15.svg|x32px|𝋏]]
+|-
+| style="background:#F8F8F8;font-size:small" lang="mul" | U+1D2Dx
+| title="U+1D2D0: KAKTOVIK NUMERAL SIXTEEN" | [[File:Kaktovik digit 16.svg|x32px|𝋐]]
+| title="U+1D2D1: KAKTOVIK NUMERAL SEVENTEEN" | [[File:Kaktovik digit 17.svg|x32px|𝋑]]
+| title="U+1D2D2: KAKTOVIK NUMERAL EIGHTEEN" | [[File:Kaktovik digit 18.svg|x32px|𝋒]]
+| title="U+1D2D3: KAKTOVIK NUMERAL NINETEEN" | [[File:Kaktovik digit 19.svg|x32px|𝋓]]
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+| title="Reserved" style="background-color:#CCCCCC;" |  
+|}
+
 
 [[Category:Atausiq - Malġuk]]
