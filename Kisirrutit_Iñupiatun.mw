@@ -3,66 +3,87 @@
 {|class=wikitable
 |-
 |[[kisitchisaġvik]]
+|Z
 |0
 |-
 |[[atausiq]]
+|!
 |1
 |-
 |[[malġuk]]
+|@
 |2
 |-
 |[[piŋasut]]
+|#
 |3
 |-
 |[[sisamat]]
+|$
 |4
 |-
 |[[tallimat]]
+|%
 |5
 |-
 |[[itchaksrat]]
+|
 |6
 |-
 |[[tallimat malġuk]]
+|
 |7
 |-
 |[[tallimat piŋasut]]
+|
 |8
 |-
 |[[quliŋŋuġutaiḷaq]]
+|
 |9
 |-
 |[[qulit]]
+|A
 |10
 |-
 |[[qulit atausiq]]
+|
 |11
 |-
 |[[qulit malġuk]]
+|
 |12
 |-
 |[[qulit piŋasut]]
+|
 |13
 |-
 |[[akimiaġutaiḷaq]]
+|
 |14
 |-
 |[[akimiaq]]
+|F
 |15
 |-
 |[[akimiaq atausiq]]
+|
 |16
 |-
 |[[akimiaq malġuk]]
+|
 |17
 |-
 |[[akimiaq piŋasut]]
+|
 |18
 |-
 |[[iñuiññaġutaiḷaq]]
+|
 |19
 |-
 |[[iñuiññaq]]
+|!Z
 |20
 |}
 
@@ -70,24 +91,31 @@
 |+ ''-kipiaq''
 |-
 |[[malġukipiaq]]
+|@Z
 |40
 |-
 |[[piŋasukipiaq]]
+|#Z
 |60
 |-
 |[[sisamakipiaq]]
+|$Z
 |80
 |-
 |[[tallimakipiaq]]
+|%Z
 |100
 |-
 |[[qulikipiaq]]
+|AZ
 |200
 |-
 |[[akimiakipiaq]]
+|FZ
 |300
 |-
 |[[iñuiññakipiaq]] = |[[iḷagiññaq]]
+|!ZZ
 |400
 |}
 
@@ -95,21 +123,27 @@
 |+ ''-agliaq''
 |-
 |[[malġuagliaq]]
+|@ZZ
 |800
 |-
 |[[piŋasuagliaq]]
+|#ZZ
 |1200
 |-
 |[[sisamaagliaq]]
+|$ZZ
 |1600
 |-
 |[[tallimaagliaq]]
+|%ZZ
 |2000
 |-
 |[[quliagliaq]]
+|AZZ
 |4000
 |-
 |[[akimiagliaq]]
+|FZZ
 |6000
 |}
 
@@ -117,27 +151,35 @@
 |+ ''-pak''
 |-
 |[[atausiqpak]]
+|!ZZZ
 |8,000
 |-
 |[[malġuqpak]]
+|@ZZZ
 |16,000
 |-
 |[[piŋasuqpak]]
+|#ZZZ
 |24,000
 |-
 |[[sisamaqpak]]
+|$ZZZ
 |32,000
 |-
 |[[tallimaqpak]]
+|%ZZZ
 |40,000
 |-
 |[[quliqpak]]
+|AZZZ
 |80,000
 |-
 |[[akimiaqpak]]
+|FZZZ
 |120,000
 |-
 |[[iñuiññaqpak]]
+|!Z,ZZZ
 |160,000
 |}
 
@@ -145,24 +187,31 @@
 |+ ''-kipiaq-pak''
 |-
 |[[malġukipiaqpak]]
+|@Z,ZZZ
 |320,000 
 |-
 |[[piŋasukipiaqpak]]
+|#Z,ZZZ
 |480,000 
 |-
 |[[sisamakipiaqpak]]
+|$Z,ZZZ
 |640,000 
 |-
 |[[tallimakipiaqpak]]
+|%Z,ZZZ
 |800,000 
 |-
 |[[qulikipiaqpak]]
+|AZ,ZZZ
 |1,600,000 
 |-
 |[[akimiakipiaqpak]]
+|FZ,ZZZ
 |2,400,000 
 |-
 |[[iḷagiññaqpak]]
+|!ZZ,ZZZ
 |3,200,000 
 |}
 
@@ -170,21 +219,27 @@
 |+ ''-agliaq-pak''
 |-
 |[[malġuagliaqpak]]
+|@zz,zzz
 |6,400,000 
 |-
 |[[piŋasuagliaqpak]]
+|#zz,zzz
 |9,600,000 
 |-
 |[[sisamaagliaqpak]]
+|$zz,zzz
 |12,800,000 
 |-
 |[[tallimaagliaqpak]]
+|%zz,zzz
 |16,000,000
 |-
 |[[quliagliaqpak]]
+|Azz,zzz
 |32,000,000
 |-
 |[[akimiagliaqpak]]
+|Fzz,zzz
 |48,000,000
 |}
 
@@ -192,27 +247,35 @@
 |+ ''-pakaippaq''
 |-
 |[[atausiqpakaippaq]]
+|!,zzz,zzz
 |64,000,000
 |-
 |[[malġuqpakaippaq]]
+|@,zzz,zzz
 |128,000,000
 |-
 |[[piŋasuqpakaippaq]]
+|#,zzz,zzz
 |192,000,000
 |-
 |[[sisamaqpakaippaq]]
+|$,zzz,zzz
 |256,000,000
 |-
 |[[tallimaqpakaippaq]]
+|%,zzz,zzz
 |320,000,000
 |-
 |[[quliqpakaippaq]]
+|A,zzz,zzz
 |640,000,000
 |-
 |[[akimiaqpakaippaq]]
+|F,zzz,zzz
 |960,000,000
 |-
 |[[iñuiññaqpakaippaq]]
+|!Z,zzz,zzz
 |1,280,000,000
 |}
 
@@ -220,24 +283,31 @@
 |+ ''-kipiaq-pakaippaq''
 |-
 |[[malġukipiaqpakaippaq]]
+|@Z,zzz,zzz
 |2,560,000,000 
 |-
 |[[piŋasukipiaqpakaippaq]]
+|#Z,zzz,zzz
 |3,840,000,000
 |-
 |[[sisamakipiaqpakaippaq]]
+|$Z,zzz,zzz
 |5,120,000,000
 |-
 |[[tallimakipiaqpakaippaq]]
+|%Z,zzz,zzz
 |6,400,000,000 
 |-
 |[[qulikipiaqpakaippaq]]
+|AZ,zzz,zzz
 |12,800,000,000 
 |-
 |[[akimiakipiaqpakaippaq]]
+|FA,zzz,zzz
 |19,200,000,000
 |-
 |[[iḷagiññaqpakaippaq]]
+|!ZZ,zzz,zzz
 |25,600,000,000
 |}
 
@@ -245,21 +315,27 @@
 |+ ''-agliaq-pakaippaq''
 |-
 |[[malġuagliaqpakaippaq]]
+|@ZZ,zzz,zzz
 |51,200,000,000
 |-
 |[[piŋasuagliaqpakaippaq]]
+|#ZZ,zzz,zzz
 |76,800,000,000
 |-
 |[[sisamaagliaqpakaippaq]]
+|$ZZ,zzz,zzz
 |102,400,000,000 
 |-
 |[[tallimaagliaqpakaippaq]]
+|%ZZ,zzz,zzz
 |128,000,000,000
 |-
 |[[quliagliaqpakaippaq]]
+|AZZ,zzz,zzz
 |256,000,000,000
 |-
 |[[akimiagliaqpakaippaq]]
+|FZZ,zzz,zzz
 |384,000,000,000
 |}
 
@@ -267,27 +343,35 @@
 |+ ''-pakpiŋatchaq''
 |-
 |[[atausiqpakpiŋatchaq]]
+|!,zzz,zzz,zzz
 |512,000,000,000
 |-
 |[[malġuqpakpiŋatchaq]]
+|@,zzz,zzz,zzz
 |1,024,000,000,000
 |-
 |[[piŋasuqpakpiŋatchaq]]
+|#,zzz,zzz,zzz
 |1,536,000,000,000
 |-
 |[[sisamaqpakpiŋatchaq]]
+|$,zzz,zzz,zzz
 |2,048,000,000,000
 |-
 |[[tallimaqpakpiŋatchaq]]
+|%,zzz,zzz,zzz
 |2,560,000,000,000
 |-
 |[[quliqpakpiŋatchaq]]
+|A,zzz,zzz,zzz
 |5,120,000,000,000
 |-
 |[[akimiaqpakpiŋatchaq]]
+|F,zzz,zzz,zzz
 |7,680,000,000,000
 |-
 |[[iñuiññaqpakpiŋatchaq]]
+|!Z,zzz,zzz,zzz
 |10,240,000,000,000
 |}
 
@@ -295,24 +379,31 @@
 |+ ''-kipiaq-pakpiŋatchaq''
 |-
 |[[malġukipiaqpakpiŋatchaq]]
+|@Z,zzz,zzz,zzz
 |20,480,000,000,000
 |-
 |[[piŋasukipiaqpakpiŋatchaq]]
+|#Z,zzz,zzz,zzz
 |30,720,000,000,000
 |-
 |[[sisamakipiaqpakpiŋatchaq]]
+|$Z,zzz,zzz,zzz
 |40,960,000,000,000
 |-
 |[[tallimakipiaqpakpiŋatchaq]]
+|%Z,zzz,zzz,zzz
 |51,200,000,000,000
 |-
 |[[qulikipiaqpakpiŋatchaq]]
+|AZ,zzz,zzz,zzz
 |102,400,000,000,000
 |-
 |[[akimiakipiaqpakpiŋatchaq]]
+|FZ,zzz,zzz,zzz
 |153,600,000,000,000
 |-
 |[[iḷagiññaqpakpiŋatchaq]]
+|!ZZ,zzz,zzz,zzz
 |204,800,000,000,000
 |}
 
@@ -320,24 +411,31 @@
 |+ ''-agliaq-pakpiŋatchaq''
 |-
 |[[malġuagliaqpakpiŋatchaq]]
+|@ZZ,zzz,zzz,zzz
 |409,600,000,000,000
 |-
 |[[piŋasuagliaqpakpiŋatchaq]]
+|#ZZ,zzz,zzz,zzz
 |614,400,000,000,000
 |-
 |[[sisamaagliaqpakpiŋatchaq]]
+|$ZZ,zzz,zzz,zzz
 |819,200,000,000,000
 |-
 |[[tallimaagliaqpakpiŋatchaq]]
+|%ZZ,zzz,zzz,zzz
 |1,024,000,000,000,000
 |-
 |[[quliagliaqpakpiŋatchaq]]
+|AZZ,zzz,zzz,zzz
 |2,048,000,000,000,000
 |-
 |[[akimiagliaqpakpiŋatchaq]]
+|FZZ,zzz,zzz,zzz
 |3,072,000,000,000,000
 |-
 |[[iñuiññagliaqpakpiŋatchaq]]
+|!ZZZ,zzz,zzz,zzz
 |4,096,000,000,000,000
 |}
 
