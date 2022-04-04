@@ -87,7 +87,7 @@
 |[[akimiakipiaq]]
 |300
 |-
-|[[iñuiññakipiaq]] = [[iḷagiññaq]]
+|[[iñuiññakipiaq]] = |[[iḷagiññaq]]
 |400
 |}
 
@@ -270,4 +270,80 @@
 
 + ''-agliaq-pakpiŋatchaq''
 
-[[iñuiññagliaqpakpiŋatchaq]]
+{| class=wikitable
+|+ ''-pakpiŋatchaq''
+|-
+|[[atausiqpakpiŋatchaq]]
+|512,000,000,000
+|-
+|[[malġuqpakpiŋatchaq]]
+|1,024,000,000,000
+|-
+|[[piŋasuqpakpiŋatchaq]]
+|1,536,000,000,000
+|-
+|[[sisamaqpakpiŋatchaq]]
+|2,048,000,000,000
+|-
+|[[tallimaqpakpiŋatchaq]]
+|2,560,000,000,000
+|-
+|[[quliqpakpiŋatchaq]]
+|5,120,000,000,000
+|-
+|[[akimiaqpakpiŋatchaq]]
+|7,680,000,000,000
+|-
+|[[iñuiññaqpakpiŋatchaq]]
+|10,240,000,000,000
+|}
+
+{| class=wikitable
+|+ ''-kipiaq-pakpiŋatchaq''
+|-
+|[[malġukipiaqpakpiŋatchaq]]
+|20,480,000,000,000
+|-
+|[[piŋasukipiaqpakpiŋatchaq]]
+|30,720,000,000,000
+|-
+|[[sisamakipiaqpakpiŋatchaq]]
+|40,960,000,000,000
+|-
+|[[tallimakipiaqpakpiŋatchaq]]
+|51,200,000,000,000
+|-
+|[[qulikipiaqpakpiŋatchaq]]
+|102,400,000,000,000
+|-
+|[[akimiakipiaqpakpiŋatchaq]]
+|153,600,000,000,000
+|-
+|[[iḷagiññaqpakpiŋatchaq]]
+|204,800,000,000,000
+|}
+
+{| class=wikitable
+|+ ''-agliaq-pakpiŋatchaq''
+|-
+|[[malġuagliaqpakpiŋatchaq]]
+|409,600,000,000,000
+|-
+|[[piŋasuagliaqpakpiŋatchaq]]
+|614,400,000,000,000
+|-
+|[[sisamaagliaqpakpiŋatchaq]]
+|819,200,000,000,000
+|-
+|[[tallimaagliaqpakpiŋatchaq]]
+|1,024,000,000,000,000
+|-
+|[[quliagliaqpakpiŋatchaq]]
+|2,048,000,000,000,000
+|-
+|[[akimiagliaqpakpiŋatchaq]]
+|3,072,000,000,000,000
+|-
+|[[iñuiññagliaqpakpiŋatchaq]]
+|4,096,000,000,000,000
+|}
