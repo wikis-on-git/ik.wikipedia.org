@@ -3,46 +3,67 @@
 {|class=wikitable
 |-
 |[[kisitchisaġvik]]
+|0
 |-
 |[[atausiq]]
+|1
 |-
 |[[malġuk]]
+|2
 |-
 |[[piŋasut]]
+|3
 |-
 |[[sisamat]]
+|4
 |-
 |[[tallimat]]
+|5
 |-
 |[[itchaksrat]]
+|6
 |-
 |[[tallimat malġuk]]
+|7
 |-
 |[[tallimat piŋasut]]
+|8
 |-
 |[[quliŋŋuġutaiḷaq]]
+|9
 |-
 |[[qulit]]
+|10
 |-
 |[[qulit atausiq]]
+|11
 |-
 |[[qulit malġuk]]
+|12
 |-
 |[[qulit piŋasut]]
+|13
 |-
 |[[akimiaġutaiḷaq]]
+|14
 |-
 |[[akimiaq]]
+|15
 |-
 |[[akimiaq atausiq]]
+|16
 |-
 |[[akimiaq malġuk]]
+|17
 |-
 |[[akimiaq piŋasut]]
+|18
 |-
 |[[iñuiññaġutaiḷaq]]
+|19
 |-
 |[[iñuiññaq]]
+|20
 |}
 
 + ''-kipiaq'':
@@ -50,18 +71,25 @@
 {|class=wikitable
 |-
 |[[malġukipiaq]]
+|40
 |-
 |[[piŋasukipiaq]]
+|60
 |-
 |[[sisamakipiaq]]
+|80
 |-
 |[[tallimakipiaq]]
+|100
 |-
 |[[qulikipiaq]]
+|200
 |-
 |[[akimiakipiaq]]
+|300
 |-
 |[[iñuiññakipiaq]] = [[iḷagiññaq]]
+|400
 |}
 
 + ''-agliaq'':
@@ -69,16 +97,22 @@
 {|class=wikitable
 |-
 |[[malġuagliaq]]
+|800
 |-
 |[[piŋasuagliaq]]
+|1200
 |-
 |[[sisamaagliaq]]
+|1600
 |-
 |[[tallimaagliaq]]
+|2000
 |-
 |[[quliagliaq]]
+|4000
 |-
 |[[akimiagliaq]]
+|6000
 |}
 
 + ''-pak'':
