@@ -141,8 +141,6 @@
 |160,000
 |}
 
-======
-
 {|class=wikitable
 |+ ''-kipiaq-pak''
 |-
@@ -168,8 +166,6 @@
 |3,200,000 
 |}
 
-=======
-
 {|class=wikitable
 |+ ''-agliaq-pak''
 |-
@@ -192,7 +188,34 @@
 |48,000,000
 |}
 
-+ ''-pakaippaq''
+{|class=wikitable
+|+ ''-pakaippaq''
+|-
+|[[atausiqpakaippaq]]
+|64,000,000
+|-
+|[[malġuqpakaippaq]]
+|128,000,000
+|-
+|[[piŋasuqpakaippaq]]
+|192,000,000
+|-
+|[[sisamaqpakaippaq]]
+|256,000,000
+|-
+|[[tallimaqpakaippaq]]
+|320,000,000
+|-
+|[[quliqpakaippaq]]
+|640,000,000
+|-
+|[[akimiaqpakaippaq]]
+|960,000,000
+|-
+|[[iñuiññaqpakaippaq]]
+|1,280,000,000
+|}
+
 
 + ''-kipiaq-pakaippaq''
 
