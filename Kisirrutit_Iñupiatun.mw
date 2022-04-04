@@ -66,9 +66,8 @@
 |20
 |}
 
-+ ''-kipiaq'':
-
 {|class=wikitable
+|+ ''-kipiaq''
 |-
 |[[malġukipiaq]]
 |40
@@ -92,9 +91,8 @@
 |400
 |}
 
-+ ''-agliaq'':
-
 {|class=wikitable
+|+ ''-agliaq''
 |-
 |[[malġuagliaq]]
 |800
@@ -115,9 +113,8 @@
 |6000
 |}
 
-+ ''-pak'':
-
 {|class=wikitable
+|+ ''-pak''
 |-
 |[[atausiqpak]]
 |8,000
@@ -144,9 +141,56 @@
 |160,000
 |}
 
-+ ''-kipiaq-pak''
+======
 
-+ ''-agliaq-pak''
+{|class=wikitable
+|+ ''-kipiaq-pak''
+|-
+|[[malġukipiaqpak]]
+|320,000 
+|-
+|[[piŋasukipiaqpak]]
+|480,000 
+|-
+|[[sisamakipiaqpak]]
+|640,000 
+|-
+|[[tallimakipiaqpak]]
+|800,000 
+|-
+|[[qulikipiaqpak]]
+|1,600,000 
+|-
+|[[akimiakipiaqpak]]
+|2,400,000 
+|-
+|[[iḷagiññaqpak]]
+|3,200,000 
+|}
+
+=======
+
+{|class=wikitable
+|+ ''-agliaq-pak''
+|-
+|[[malġuagliaqpak]]
+|6,400,000 
+|-
+|[[piŋasuagliaqpak]]
+|9,600,000 
+|-
+|[[sisamaagliaqpak]]
+|12,800,000 
+|-
+|[[tallimaagliaqpak]]
+|16,000,000
+|-
+|[[quliagliaqpak]]
+|32,000,000
+|-
+|[[akimiagliaqpak]]
+|48,000,000
+|}
 
 + ''-pakaippaq''
 
@@ -159,3 +203,5 @@
 + ''-kipiaq-pakpiŋatchaq''
 
 + ''-agliaq-pakpiŋatchaq''
+
+[[iñuiññagliaqpakpiŋatchaq]]
